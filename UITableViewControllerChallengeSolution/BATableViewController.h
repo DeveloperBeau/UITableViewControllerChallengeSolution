@@ -1,5 +1,5 @@
 //
-//  BAViewController.h
+//  BATableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by Beau Ayres on 6/09/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BAViewController : UIViewController
+@interface BATableViewController : UITableViewController
 
 @end
